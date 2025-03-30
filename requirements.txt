@@ -1,0 +1,4 @@
+telethon==1.39.0
+seedrcc==1.0.1
+cryptography==44.0.2
+python-dotenv==1.1.0
